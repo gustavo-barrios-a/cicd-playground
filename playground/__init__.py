@@ -1,3 +1,3 @@
-from .playground import *
+from .play import *
 
-__all__ = [*playground.__all__]
+__all__ = [*play.__all__]
